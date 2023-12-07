@@ -42,9 +42,16 @@
 
 ---
 
-## Slide 6: Overcoming Common Challenges
-**Addressing Interdisciplinary Communication**: Implementing regular team-building activities and cross-training sessions can enhance understanding and communication among team members with different expertise.  
-**Resource and Skill Management**: Utilizing tools like Skills Matrices to effectively identify and manage the various skills within the team.
+## Slide 6: Additional Real-World Success Story
+
+**Innovative Project Implementation in a Scientific Communications Agency**  
+- **Context**: In the complex, knowledge-based industry of scientific communications, leaders face the challenge of driving growth through innovation.  
+- **Approach**: A qualitative case study was conducted to understand how a cross-functional team within a scientific communications agency tackled an innovative project.  
+- **Findings**: The study revealed that successful implementation was facilitated by the organization's strategic support for cross-functional teams. Key factors included a shared aspirational vision, a climate of psychological safety, and innovation-responsive operating principles.  
+- **Outcomes**: The cross-functional team achieved various outcomes, including the implementation of a new product, discovery of new ways of working, and team member satisfaction.  
+- **Insights**: The study highlighted the importance of a supportive environment and psychological safety for cross-functional teams, especially in fields requiring high levels of innovation and collaboration.
+
+For detailed insights from this study, you can explore the research on [Columbia University's Academic Commons](https://academiccommons.columbia.edu/doi/10.7916/d8-vfpf-e702).
 
 ---
 
@@ -66,14 +73,14 @@
 ---
 
 ## Slide 10: References
-**List of Cited Sources**: 
-- Scrumstudy Blog on Scrum Team Organization【7†source】.
-- Scrum.org on Scrum Teams in an Organization【8†source】.
-- Agile Aspire on Skills Matrix and its relevance to cross-functional teams【9†source】.
 
----
+**Cited Sources with Links**: 
 
-## Slide 11: Q&A Session
-**Open Discussion**: Encourage the audience to ask questions and share their thoughts or concerns about implementing cross-functional teams.
+- [Scrumstudy Blog on Scrum Team Organization](https://www.scrumstudy.com/blog/scrum-team-organization/)
+- [Scrum.org on Scrum Teams in an Organization](https://www.scrum.org/resources/blog/scrum-teams-organization)
+- [Agile Aspire on Skills Matrix](https://www.agileaspire.com/post/how-to-create-a-skills-matrix-for-scrum-teams)
+- [Deloitte Insights: The Value of Cross-Functional Teams](https://www2.deloitte.com/us/en/insights/topics/talent/cross-functional-teams.html)
+- [McKinsey: Making Collaboration Across Functions a Reality](https://www.mckinsey.com/business-functions/organization/our-insights/making-collaboration-across-functions-a-reality)
+- [Case Study on Cross-Functional Team Implementation in Scientific Communications Agency](https://academiccommons.columbia.edu/doi/10.7916/d8-vfpf-e702)
 
 ---
